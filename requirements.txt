@@ -1,3 +1,4 @@
 dimod
 dwave-ocean-sdk
 qiskit
+matplotlib
