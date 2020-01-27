@@ -1,4 +1,4 @@
-name: INFUAL19 
+name: EIITECHFEST2020 
 channels:
   - conda-forge
 dependencies:
