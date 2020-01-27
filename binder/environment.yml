@@ -1,9 +1,0 @@
-name: EIITECHFEST2020 
-dependencies:
-  - python>=3.6
-  - numpy
-  - pip
-  - pip:
-      - dimod
-      - dwave-ocean-sdk
-  - jupyter
